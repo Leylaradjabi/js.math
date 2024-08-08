@@ -8,4 +8,4 @@ console.log(year)
 
 let country = prompt("Укажите город где проживаете")
 let city = "Самарканд"
-console.log(city)
+console.log(city);
